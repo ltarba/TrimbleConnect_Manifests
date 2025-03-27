@@ -1,7 +1,7 @@
 {
   "icon": "https://ltwskun0001.sweco.se:8443/logos/tool-logo.svg",
   "title": "Test Extension",
-  "url": "http://localhost:4173/index.html",
+  "url": "http://localhost:5174/index.html",
   "description": "Test Extension",
   "configCommand": "do_config",
   "enabled": true
