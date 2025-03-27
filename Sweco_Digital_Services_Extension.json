@@ -1,0 +1,8 @@
+{
+  "icon": "https://ltwskun0001.sweco.se:8443/logos/tool-logo.svg",
+  "title": "Sweco Extension",
+  "url": "https://ltwskun0001.sweco.se:8443/index.html",
+  "description": "Sweco Digital Services Extension",
+  "configCommand": "do_config",
+  "enabled": true
+}
